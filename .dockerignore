@@ -6,4 +6,4 @@
 .ideai
 .styleci.yml
 vendor
-docker-compose.yaml
+docker-compose.yml
